@@ -1,23 +1,23 @@
 /*
  * Generic
  */
-"CLOSE_BUTTON" = "CLOSE";
+"CLOSE_BUTTON" = "SLUITEN";
 
 /*
  * CordovaGoogleMaps.m
  */
-"APIKEY_IS_UNDEFINED_TITLE" = "API key error";
-"APIKEY_IS_UNDEFINED_MESSAGE" = "The variable \'API_KEY_FOR_IOS\' is not registered.";
+"APIKEY_IS_UNDEFINED_TITLE" = "API key fout";
+"APIKEY_IS_UNDEFINED_MESSAGE" = "De variabele \'API_KEY_FOR_IOS\' is niet geregistreerd.";
 
-"APP_NAME_ERROR_TITLE" = "You need to change the config.xml file";
-"APP_NAME_ERROR_MESSAGE" = "Google Maps SDK for iOS crashes if CFBundleExecutable contains non-English characters.\nMore details, Check out the comment in the CordovaGoogleMaps.m file.";
+"APP_NAME_ERROR_TITLE" = "Je moet het config.xml bestand aanpassen.";
+"APP_NAME_ERROR_MESSAGE" = "Google Maps SDK for iOS faalt indien CFBundleExecutable niet-Engelse karakters bevat.\nVoor meer informatie bekijk het commentaar in het CordovaGoogleMaps.m bestand.";
 
 /*
  * PluginLocationService.m
  */
-"LOCATION_IS_UNAVAILABLE_ERROR_TITLE" = "Location Service is not available";
-"LOCATION_IS_UNAVAILABLE_ERROR_MESSAGE" = "This app needs to access your location. Please turn on \'Settings > Privacy > Location Services\'";
+"LOCATION_IS_UNAVAILABLE_ERROR_TITLE" = "De locatievoorziening is niet beschikbaar";
+"LOCATION_IS_UNAVAILABLE_ERROR_MESSAGE" = "Deze app wil jou locatie kunnen bepalen. Zet dit aan via \'Instellingen > Privacy > Locatievoorzieningen\'";
 
-"LOCATION_IS_DENIED_MESSAGE" = "This app has rejected to use Location Services.";
-"CAN_NOT_GET_LOCATION_MESSAGE" = "Cannot get your location.";
-"LOCATION_REJECTED_BY_USER_MESSAGE" = "Location service is rejected by user.";
+"LOCATION_IS_DENIED_MESSAGE" = "Deze app heeft de locatievoorziening afgewezen.";
+"CAN_NOT_GET_LOCATION_MESSAGE" = "Kan je locatie niet bepalen.";
+"LOCATION_REJECTED_BY_USER_MESSAGE" = "De locatievoorziening is afgewezen door de gebruiker.";
